@@ -1,0 +1,11 @@
+This the study notes of linear regression/multi linear regression
+ 
+For a single variable, the linear regression can be written as y=Mx+ C. We usually use least squared method to get the value of M and C. This page has the math details of calculating the value:https://brownmath.com/stat/leastsq.htm#FindNocalc.
+
+Assumptions for Linear Regression:
+Linear relationship
+Multivariate normality
+No or little multicollinearity
+No auto-correlation
+Homoscedasticity
+ 
